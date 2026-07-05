@@ -1,0 +1,820 @@
+0: ﻿
+1: Industrial Production Index (IPI)
+2: Policy Rate: Month End: SELIC
+3: IPCA: Education
+4: IPCA: Transport
+5: IPCA: Home Appliances
+6: IPCA: Apparel
+7: IPCA: Communication
+8: IPCA: General
+9: IPCA: Food & Beverage
+10: IPCA: Health & Personal Care
+11: Monetary Base
+12: Savings Deposits Rate
+13: Official Reserve Assets
+14: IR: Assets: Gold
+15: Agricultural Production: Area
+16: IPI: Manufacturing
+17: IPI: Mineral Extraction
+18: IPI: Consumption Goods
+19: IPI: Capital Goods
+20: IPI: Intermediate Goods
+21: PSBR: 12 Months Cumulative: Primary
+22: Financial Basic Rate: Monthly Average: Per Annum
+23: PSBR: 12 Months Cumulative: Nominal
+24: Unit Labour Cost: USD
+25: PSBR: 12 Months Cumulative: Primary: Central Govt
+26: Long Term Interest Rate (TJLP): Per Annum
+27: IPI: sa: Mineral Extraction
+28: IPI: sa: Intermediate Goods
+29: IPI: sa: Consumption Goods
+30: PSBR: 12 Months Cumulative: Nominal Interest
+31: Industrial Production Index (IPI): sa
+32: PSBR: 12 Months Cumulative: Primary: Central Govt: Social Security
+33: IPI: Mfg: Computer, Electronic and Optical Products
+34: ORA: Gold Incl Gold Deposits and Gold Swapped
+35: FX Rate: BoP: Commerical Bank: Buy: Monthly Avg
+36: PSBR: 12 Months Cumulative: Primary: Central Govt: Federal
+37: IPI: sa: Capital Goods
+38: IPCA: Personal Expenses
+39: IPCA: Housing
+40: IPCA: YoY: Core: Exclusion 1 - EX1
+41: IPCA: MoM: Core: Exclusion - EX0
+42: IPI: sa: Manufacturing
+43: Reference Interest Rate: Monthly Average: Per Annum
+44: FX Rate: Banco Central Do Brasil: Euro: Bid
+45: Money Market Interest Rate: Monthly Average: Per Annum
+46: IPCA: MoM: Core: Smoothed Trimmed Means - MS
+47: ORA: Foreign Currency Reserves in Convertible FC (FCR)
+48: PSBR: 12 Months Cumulative: Primary: Central Govt: Central Bank
+49: IPCA: MoM: Core: NonSmoothed Trimmed Means - MA
+50: IPCA: MoM
+51: FX Rate: Banco Central Do Brasil: US Dollar: Bid
+52: Public Sector Debt: General Government: Gross General Government Debt
+53: BCB Forecast: Over Selic Rate: Median: Current Calendar Year
+54: BCB Forecast: IPCA: Median: Next 12 Months
+55: Net Public Debt to GDP Ratio: General Government
+56: Real Effective Exchange Rate Index (REER): 15 Group Currency: CPI
+57: Money Supply: M1
+58: Broad Money Supply: M3
+59: Broad Money Supply: M4
+60: Broad Money Supply: M2
+61: Money Supply: M1: Seasonally Adjusted
+62: Other Foreign Currency Assets
+63: ORA: FCR: Total C&D With: Banks HQ Outside BR: Located in BR
+64: Federal Debt Held by Public
+65: ORA: FCR: Total C&D With: Banks Headquartered Outside BR
+66: ORA: FCR: Securities: Issuer Headquartered in BR but Located Abro
+67: ORA: FCR: Total C&D With: Banks Headquartered in BR: Located Abr
+68: ORA: FCR: Total C&D With: Banks Headquartered in BR
+69: IR: Assets: Securities
+70: Monetary Base: Currency Issued
+71: IR:  Cash Concept Position
+72: IR: TO: Treasury & BCFO: Amortizations
+73: Reserve Requirements: FI: Currency
+74: IR: TO: Treasury & BCFO: Others
+75: Monetary Base: Change: Treasury Securities
+76: Monetary Base: Extended: Monetary Base
+77: IR: TO: Net Central Bank: Interventions
+78: IR: TO: Treasury & BCFO: Interest: Bonds
+79: Time Deposits: Outstanding
+80: Reserve Requirements: FI: Securities: Savings
+81: Reserve Requirements: Financial Institutions(FI)
+82: Monetary Base: Extended: Securities: Treasury
+83: Monetary Base: Bank Reserves
+84: Monetary Base: Daily Average
+85: Monetary Base: Change: Total
+86: Monetary Base: Change: Other Accounts
+87: Monetary Base: Daily Average: Currency Issued
+88: Reserve Requirements: FI: Securities: Time Deposits
+89: Monetary Base: Extended: Securities: Treasury: Financing
+90: IR: TO: Net Central Bank: Interventions: Spot
+91: Monetary Base: Change: Financial Liquidity Assistance
+92: Reserve Requirements: FI: Currency: Savings Deposits
+93: Monetary Base: Change: Deposits: Investment Funds
+94: Reserve Requirements: FI: Currency: Demand Resources
+95: IR: Total Operation (TO)
+96: Monetary Base: Extended
+97: Central Government: Sources
+98: IR: TO: Treasury & BCFO: Interest: Reserves Interest Earnings
+99: Monetary Base: Extended: Securities: Treasury: Portfolio Position
+100: PSBR: Nominal interest
+101: Public Accounts: Uses
+102: Reserve Requirements: FI: Securities
+103: Monetary Base: Extended: Reserve Req: Non Earnings
+104: IPI: Mfg: Furniture
+105: PSBR: Nominal: State Enterprises
+106: PSBR: Primary: Regional Govt
+107: PSBR: Primary: Central Govt
+108: Monetary Base: Change: Deposits: Total
+109: Foreign Exchange Transactions: Free Market: Balance
+110: Central Government: Uses: Primary
+111: IPI: Mfg: Textiles
+112: IPI: Mfg: Beverages
+113: PSBR: Primary: State Enterprises
+114: PSBR: Nominal: Central Govt
+115: PSBR: Nominal: Regional Govt
+116: Public Accounts: Sources: IB: Others
+117: General Price Index: IGP-DI
+118: Foreign Exchange Transactions: Free Market: Financial: Sale
+119: Foreign Exchange Transactions: Free Market: Commercial: Balance
+120: IPI: Mfg: Food Products
+121: IPI: Mfg: Miscellaneous Products
+122: IPI: Pará: Metallurgy
+123: Central Government: Sources: IB: Renegotiation
+124: PSBR: Nominal: Regional Govt: State
+125: PSBR: Nominal interest: Central Govt
+126: Foreign Exchange Transactions: Free Market: Financial: Purchase
+127: PSBR: Nominal interest: Regional Govt
+128: Central Government: Sources: External Borrowing
+129: Public Accounts: Sources: IB: Renegotiations
+130: Public Accounts: Uses: Primary Result
+131: IPI: Mfg: Wood Products
+132: IPI: Northeast: Manufacturing
+133: IPI: Northeast: Beverages
+134: IPI: Northeast: Metallurgy
+135: IPI: Pará: Beverages
+136: IPI: Pernambuco: Manufacturing
+137: IR: TO: Treasury & Central BankForeign Operations: Disbursements
+138: IR: TO: Net Central Bank: Interventions: Forward
+139: Monetary Base: Daily Average: Bank Reserves
+140: Reserve Requirements: FI: Currency: Additional Requirement
+141: Monetary Base: Extended: Reserve Req: Earnings
+142: Monetary Base: Change: External Sector Operations
+143: Foreign Exchange Transactions: Free Market: Commercial: Export
+144: Foreign Exchange Transactions: Free Market: Commercial: Import
+145: General Price Index: IGP-10
+146: IPI: Consumption Goods: Durable
+147: Other Foreign Currency Assets: Other
+148: IPI: Amazonas: Manufacturing
+149: IPI: Pará: Manufacturing
+150: IPI: Ceará: Manufacturing
+151: IPI: Ceará: Textiles
+152: IPI: Goiás: Metallurgy
+153: PSBR: Nominal interest: State Enterprises
+154: Central Government: Uses: Internal Interest
+155: PSBR: Nominal: Regional Govt: Local
+156: ORA: FCR: Securities
+157: ORA: Other Reserve Assets
+158: IPI: Northeast: Textiles
+159: IPI: Amazonas: Beverages
+160: IPI: Pernambuco: Beverages
+161: IPI: Bahia: Manufacturing
+162: IPI: Bahia: Beverages
+163: IPI: Paraná: Furniture
+164: IPI: Goiás: Manufacturing
+165: IPI: Mfg: Machinery and Equipment
+166: IPI: Mfg: Tobacco Products
+167: IPI: Mfg: Rubber and Plastic
+168: Central Government: Uses: External Interest
+169: Public Accounts: Sources: External Borrowing
+170: PSBR: Primary: Regional Govt: State
+171: IPI: Northeast: Food Products
+172: IPI: Northeast: Clothing and Accessories
+173: IPI: Pará: Mineral Extraction
+174: IPI: Ceará: Clothing and Accessories
+175: IPI: Paraná: Machinery and Equipment
+176: IPI: Santa Catarina: Manufacturing
+177: IPI: São Paulo: Textiles
+178: Central Government: Sources: Internal Borrowing (IB)
+179: Public Accounts: Uses: External Debt Interest
+180: General Price Index: IGP-M
+181: Central Government: Sources: IB: Security Debt
+182: Public Accounts: Sources: Internal Borrowing (IB)
+183: PSBR: Nominal interest: Regional Govt: State
+184: Public Sector Debt: Gen Govt: Exchange Equalization
+185: Public Accounts: Sources: IB: Renegotiations: Local
+186: Financial System Credit: Financial Institution Under Private Control
+187: IPI: Amazonas: Mineral Extraction
+188: IPI: Ceará: Food Products
+189: IPI: Espírito Santo: Manufacturing
+190: IPI: Paraná: Food Products
+191: IPI: Santa Catarina: Textiles
+192: IPI: Minas Gerais: Metallurgy
+193: IPI: São Paulo: Beverages
+194: Monetary Base: Change: Federal Securities
+195: Central Government: Uses
+196: IPI: Mfg: Pharmachemicals and Pharmaceuticals Products
+197: PSBR: Primary: Central Govt: Central Bank
+198: IPI: Consumption Goods: Semi and Non-Durable
+199: Central Government: Sources: IB: Renegotiation: Local Gov't
+200: PSBR: Nominal: State Enterprises: Local Govt Owner
+201: PSBR: Nominal interest: Central Govt: Central Bank
+202: Industrial Production Index (IPI): Northeast
+203: IPI: Minas Gerais: Chemical Products
+204: IPI: Santa Catarina: Wood Products
+205: IPI: Minas Gerais: Tobacco Products
+206: IPI: Minas Gerais: Machinery and Equipment
+207: IPI: Rio de Janeiro: Beverages
+208: IPI: Rio Grande do Sul: Manufacturing
+209: IPI: Mfg: Electric Machines, Devices and Materials
+210: IPI: Mfg: Motor Vehicles, Trailers and Bodies
+211: INPC: Apparel
+212: INPC: Transport
+213: Broad Producer Price Index: IPA-10
+214: Central Government: Sources: IB: Renegotiation: State Gov't
+215: Central Government: Uses: Internal Interest: Real Interest
+216: Central Government: Uses: Internal Interest: Monetary Updating
+217: Public Accounts: Sources: IB: TN/Bacen Relationship
+218: IPI: Mfg: Coke, Petroleum Products and Biofuels
+219: Core Inflation Rate: FGV
+220: Industrial Production Index (IPI): Amazonas
+221: Industrial Production Index (IPI): Pernambuco
+222: IPI: São Paulo: Chemical Products
+223: IPI: Rio Grande do Sul: Beverages
+224: IPI: Rio Grande do Sul: Furniture
+225: INPC: Communication
+226: IR: TO: Net Central Bank: Interventions: Foreign Currency Loans
+227: IPI: Mfg: Metallurgy
+228: Central Government: Sources: IB: Others
+229: IPI: Mfg: Pulp, Paper and Paper Products
+230: ORA: Other Reserve Assets: Financial Derivatives
+231: Industrial Production Index (IPI): Ceará
+232: IPI: São Paulo: Rubber and Plastic
+233: IPI: Santa Catarina: Clothing and Accessories
+234: IPI: Espírito Santo: Mineral Extraction
+235: IPI: Rio de Janeiro: Manufacturing
+236: IPI: São Paulo: Food Products
+237: IPI: São Paulo: Clothing and Accessories
+238: IPI: Rio Grande do Sul: Metallurgy
+239: INPC: Education
+240: Central Government: Sources: IB: Relationship TN/Bacen
+241: IPI: sa: Mfg: Metallurgy
+242: FX Rate: BoP: Commerical Bank: Buy
+243: Public Sector Debt: General Government Debt
+244: PSBR: Primary: State Enterprises: Federal Enterprises
+245: PSBR: Nominal: Central Govt: Federal Govt
+246: IPI: Northeast: Coke, Petroleum Products and Biofuels
+247: IPI: Pará: Pulp, Paper and Paper Products
+248: IPI: Ceará: Manufacture of Leather, Travel & Footwear
+249: IPI: Paraná: Coke, Petroleum Products and Biofuels
+250: Industrial Production Index (IPI): Santa Catarina
+251: IPI: Rio de Janeiro: Mineral Extraction
+252: IPI: Rio Grande do Sul: Food Products
+253: IPI: Goiás: Non Metallic Minerals Products
+254: ORA: IMF Reserve Position
+255: IR: FCLSD: Up to 1 Month
+256: INPC: Recife
+257: INPC: Salvador
+258: INPC: Belem
+259: INPC: Goiania
+260: INPC: Personal Expenses
+261: IPI: sa: Mfg: Furniture
+262: Broad Producer Price Index: IPA-M
+263: PSBR: Primary: Central Govt: National Social Security Institute
+264: Public Sector Debt: Bacen Net Debt
+265: IR: FCLSD: Inflows: Principal
+266: ORA: Other Reserve Assets: Reverse repo
+267: IPI: Amazonas: Coke, Petroleum Products and Biofuels
+268: IPI: Pará: Non Metallic Minerals Products
+269: IPI: Ceará: Coke, Petroleum Products and Biofuels
+270: IPI: Bahia: Coke, Petroleum Products and Biofuels
+271: IPI: Paraná: Motor Vehicles, Trailers and Bodies
+272: Industrial Production Index (IPI): São Paulo
+273: IPI: Rio Grande do Sul: Rubber and Plastic
+274: INPC: Food & Beverage
+275: INPC: Housing
+276: IPI: sa: Mfg: Beverages
+277: General Price Index: MoM: IGP-DI
+278: ORA: FCR: Total Currency and Deposits (C&D) With
+279: Federal Debt Held by Public: Indexed: Other
+280: IPI: São Paulo: Electric Machines, Devices and Materials
+281: IPI: Santa Catarina: Non Metallic Minerals Products
+282: IPI: Santa Catarina: Electric Machines, Devices and Materials
+283: IPI: Espírito Santo: Non Metallic Minerals Products
+284: Industrial Production Index (IPI): Rio Grande do Sul
+285: ORA: Other Reserve Assets: Loans to Non Bank Residents
+286: Other Foreign Currency Assets: Loans Not Incl in ORA
+287: INPC: Health & Personal Care
+288: Consumer Price Index: FGV: IPC-10
+289: IPI: sa: Mfg: Tobacco Products
+290: IPI: sa: Mfg: Clothing and Accessories
+291: FX Rate: Banco Central Do Brasil: British Pound: Bid
+292: FX Rate: Banco Central Do Brasil: Japanese Yen: Offer
+293: FX Rate: Banco Central Do Brasil: Macau Pataca: Bid
+294: FX Rate: Banco Central Do Brasil: Singapore Dollar: Offer
+295: FX Rate: Banco Central Do Brasil: Swiss Franc: Bid
+296: FX Rate: Banco Central Do Brasil: Thai Baht: Offer
+297: Public Sector Debt: General Government: Exchange Equalization
+298: PSBR: Nominal interest: Central Govt: Federal Govt
+299: Federal Domestic Sec: Outside Banco Central (OBC)
+300: IPI: sa: Consumption Goods: Durable
+301: Public Sector Debt: Public Enterprises Net Debt
+302: FX Rate: Banco Central Do Brasil: Canadian Dollar: Bid
+303: FX Rate: Banco Central Do Brasil: Indonesian Rupiah: Bid
+304: FX Rate: Banco Central Do Brasil: Malaysian Ringgit: Offer
+305: FX Rate: Banco Central Do Brasil: Mexican Peso: Offer
+306: FX Rate: Banco Central Do Brasil: Swiss Franc: Offer
+307: IPI: Amazonas: Other Transport Equipments excl Motor Vehicles
+308: IPI: Minas Gerais: Motor Vehicles, Trailers and Bodies
+309: IPI: Rio de Janeiro: Pharmachemicals and Pharmaceuticals Products
+310: Other Foreign Currency Assets: Securities Not Incl in ORA
+311: IR: FCLSD: 1-3 Months
+312: IR: TO: Net Central Bank: Interventions: Repo Lines of Credit
+313: IPI: Ceará: Beverages
+314: IPI: Bahia: Metallurgy
+315: IPI: Paraná: Manufacturing
+316: IPI: Paraná: Beverages
+317: Foreign Exchange Transactions: Free Market: Financial: Balance
+318: PSBR: Primary: Regional Govt: Local
+319: Public Sector Debt: Bacen Net Debt
+320: IPI: Mfg: Clothing and Accessories
+321: IPI: Mfg: Chemical Products
+322: Industrial Production Index (IPI): Pará
+323: Industrial Production Index (IPI): Bahia
+324: Industrial Production Index (IPI): Paraná
+325: IPI: Santa Catarina: Food Products
+326: IPI: Santa Catarina: Rubber and Plastic
+327: Public Sector Debt: Gen Govt: Available Bacen Portfolio
+328: Central Government: Sources: IB: Renegotiation: State Enterprises
+329: PSBR: Nominal Interest: State Enterprises: State Owner
+330: PSBR: Primary: State Enterprises: Local Govt Enterprises
+331: Financial System Credit: Capital Source: Pvt Foreign Financial Inst
+332: Long Term Interest Rate (TJLP): Per Month
+333: Federal Funds Rate (Selic): Per Annum
+334: Federal Domestic Sec: %Share By Indexing Factor: Other
+335: Other Foreign Currency Assets: Financial Derivatives Not Incl in OR
+336: Other Foreign Currency Assets: Gold Not Incl in ORA
+337: IPI: Amazonas: Metal Products excl Machines & Equipments
+338: IPI: Pernambuco: Metal Products excl Machines & Equipments
+339: IPI: São Paulo: Non Metallic Minerals Products
+340: IPI: São Paulo: Computer, Electronic and Optical Products
+341: IPI: São Paulo: Motor Vehicles, Trailers and Bodies
+342: IPI: Paraná: Metal Products excl Machines & Equipments
+343: IPI: Santa Catarina: Motor Vehicles, Trailers and Bodies
+344: IPI: São Paulo: Coke, Petroleum Products and Biofuels
+345: Consumer Price Index: FGV: IPC-DI
+346: IPI: sa: Mfg: Wood Products
+347: IPI: sa: Mfg: Chemical Products
+348: IPI: sa: Mfg: Machinery and Equipment
+349: FX Rate: Banco Central Do Brasil: Australia Dollar: Bid
+350: FX Rate: Banco Central Do Brasil: Chinese Reminbi: Bid
+351: FX Rate: Banco Central Do Brasil: Japanese Yen: Bid
+352: FX Rate: Banco Central Do Brasil: Mexican Peso: Bid
+353: FX Rate: Banco Central Do Brasil: Phillipines Peso: Offer
+354: IPI: Rio Grande do Sul: Motor Vehicles, Trailers and Bodies
+355: IR: Contingent: Lia: 1-3 Months
+356: IPCA: Belem
+357: IPCA: Goiania
+358: FX Rate: Banco Central Do Brasil: US Dollar: Offer
+359: IPI: sa: Mfg: Pharmachemicals and Pharmaceuticals Products
+360: FX Rate: Banco Central Do Brasil: HK Dollar: Bid
+361: FX Rate: Banco Central Do Brasil: HK Dollar: Offer
+362: IPI: São Paulo: Metal Products excl Machines & Equipments
+363: IPI: Rio de Janeiro: Coke, Petroleum Products and Biofuels
+364: IPI: Rio de Janeiro: Non Metallic Minerals Products
+365: IPI: Rio de Janeiro: Motor Vehicles, Trailers and Bodies
+366: IR: FCLSD: Up to 1 Month: Outflows: Principal
+367: IR: FCLSD: Up to 1 Month: Inflows: Principal
+368: FX Rate: Banco Central Do Brasil: New Zealand Dollar: Bid
+369: FX Rate: Banco Central Do Brasil: South Korean Won: Bid
+370: Federal Domestic Sec: OBC: NT: T Bonds
+371: Federal Domestic Sec: %Share By Indexing Factor: Preset
+372: IPI: Northeast: Chemical Products
+373: IPI: Amazonas: Machinery and Equipment
+374: IPI: Minas Gerais: Beverages
+375: IPI: Goiás: Food Products
+376: Public Accounts: Sources: IB: Renegotiations: States
+377: Public Sector Debt: Public Enterprises Net Debt
+378: Central Government: Sources: IB: Bank Debt
+379: Public Accounts: Sources: IB: Securities Debt
+380: PSBR: Nominal: State Enterprises: State Owner
+381: Public Sector Borrowing Requirement (PSBR): Nominal
+382: Financial System Credit: Capital Source: Public Financial Inst
+383: IPCA: Brasilia
+384: IPCA: MoM: Core: P55
+385: Federal Debt Held by Public: Fixed Rate
+386: Consumer Price Index: FGV: IPC-M
+387: IR: Contingent: Liabilities: Debt Falling Due Within 1 Year
+388: IPCA: MoM: Core: EX3: Industries
+389: IPI: sa: Mfg: Pulp, Paper and Paper Products
+390: IPI: sa: Mfg: Non Metallic Minerals Products
+391: IPI: sa: Mfg: Computer, Electronic and Optical Products
+392: General Price Index: MoM: IGP-M: 1st Decade
+393: Public Sector Debt: General Government: Gross: Internal: Other State Debt
+394: FX Rate: BoP: Commerical Bank: Sell: Monthly Avg
+395: Public Sector Debt: General Government: General Government Assets
+396: Federal Domestic Sec: OBC: National Treasury (NT)
+397: Federal Domestic Sec: %Share By Indexing Factor: Over/Selic
+398: IR: FCLSD: 3 Months - 1 Year
+399: IR: FCLSD: Up to 1 Month: Outflows: Interest
+400: IPI: Rio Grande do Sul: Pulp, Paper and Paper Products
+401: Broad Producer Price Index: IPA-EP: DI
+402: IPCA: Curitiba
+403: FX Rate: Banco Central Do Brasil: New Zealand Dollar: Offer
+404: FX Rate: Banco Central Do Brasil: South Korean Won: Offer
+405: IPI: São Paulo: Machinery and Equipment
+406: IPI: Minas Gerais: Mineral Extraction
+407: IPI: Espírito Santo: Food Products
+408: IPI: Rio de Janeiro: Metallurgy
+409: Industrial Production Index (IPI): Goiás
+410: Public Accounts: Sources: IB: Renegotiations: Public Enterprise
+411: Public Accounts: Uses: IDI: Real
+412: Financial System Credit: Capital Source: Pvt National Financial Inst
+413: IPI: Mfg: Non Metallic Minerals Products
+414: INPC: General
+415: Federal Funds Rate (Selic): Per Month
+416: IR: FCLSD: 1-3 Months: Outflows: Principal
+417: IR: FCLSD: 1-3 Months: Inflows: Principal
+418: IPI: Rio Grande do Sul: Metal Products excl Machines & Equipments
+419: General Price Index: MoM: IGP-M: 2nd Decade
+420: IPI: sa: Mfg: Coke, Petroleum Products and Biofuels
+421: IPCA: Sao Paulo
+422: Federal Domestic Sec: %Share By Indexing Factor: IGP-DI
+423: Federal Domestic Sec: %Share By Indexing Factor: Reference Tax
+424: Federal Domestic Sec: %Share By Indexing Factor: IPC-A
+425: Public Sector Debt: General Government: Gross: Internal: Renegotiation Debt
+426: Public Sector Debt: General Government: Gross: Foreign: Local Government
+427: Broad Producer Price Index: IPA-EP: DI: YoY
+428: IR: FCLSD: 3 Months - 1 Year: Outflows: Principal
+429: IPCA: MoM: Core: Exclusion 1 - EX1
+430: IPI: sa: Mfg: Leather Products, Travel Items and Footwear
+431: IPI: sa: Mfg: Metal Products excl Machines and Equipments
+432: Public Sector Debt: General Government: General Government Assets: Foreign Credits
+433: IPCA: MoM: Core: EX3: Services
+434: IR: FCLSD: Inflows: Interest
+435: IR: FCLSD: Outflows: Principal
+436: IPI: Northeast: Manufacture of Leather, Travel & Footwear
+437: IPI: Ceará: Non Metallic Minerals Products
+438: IPI: Bahia: Non Metallic Minerals Products
+439: Industrial Production Index (IPI): Espírito Santo
+440: IPI: Paraná: Pulp, Paper and Paper Products
+441: IPI: Rio Grande do Sul: Chemical Products
+442: PSBR: Nominal interest: State Enterprises: Local Govt Enterprises
+443: IPI: sa: Mfg: Textiles
+444: IPI: Mfg: Leather Products, Travel Items and Footwear
+445: General Price Index: MoM: IGP-10
+446: IPCA: MoM: Core: Exclusion 2- EX2
+447: IPCA: Rio de Janeiro
+448: IR: FCLSD: 3 Months - 1 Year: Inflows: Principal
+449: Public Sector Debt: General Government: Gross: Internal: State Securities Debt
+450: Public Sector Debt: General Government: Gross: Internal: Securities Debt Market 
+451: Federal Domestic Sec: OBC: NT: T Bills
+452: IR: FCLSD: 3 Months - 1 Year: Outflows: Interest
+453: IPI: sa: Mfg: Other Transport Equipments excl Motor Vehicles
+454: IPCA: MoM: Core: ex-Food and Energy - EXFE
+455: Public Sector Debt: General Government: Gross: Internal: State Government Bank Debt
+456: Public Sector Debt: General Government: Gross: Internal: Local Government Bank Debt
+457: ORA: Gold in Volume: Fine Troy Ounces
+458: Other Foreign Currency Assets: Deposits Not Incl in ORA
+459: IR: Contingent: Lia: Up to 1 Month
+460: IPI: Minas Gerais: Pulp, Paper and Paper Products
+461: IPI: Minas Gerais: Non Metallic Minerals Products
+462: IPI: Minas Gerais: Coke, Petroleum Products and Biofuels
+463: IPI: São Paulo: Pulp, Paper and Paper Products
+464: FX Rate: Banco Central Do Brasil: Argentine Peso: Bid
+465: FX Rate: Banco Central Do Brasil: Argentine Peso: Offer
+466: FX Rate: Banco Central Do Brasil: Macau Pataca: Offer
+467: FX Rate: Banco Central Do Brasil: Singapore Dollar: Bid
+468: PSBR: Nominal Interest: State Enterprises: Federal Owner
+469: Public Accounts: Uses: Internal Debt Interest (IDI)
+470: IPI: sa: Mfg: Rubber and Plastic
+471: IPI: sa: Mfg: Miscellaneous Products
+472: INPC: Porto Alegre
+473: INPC: Belo Horizonte
+474: INPC: Sao Paulo
+475: Public Sector Debt: General Government: Gross: Internal: Local Government Securities Debt
+476: Public Sector Debt: General Government: Gross: Foreign: Federal Government
+477: IR: Contingent: Lia: Up to 1 Month: Debt Falling Due Within 1 Year
+478: Broad Producer Price Index: IPA-M: MoM: 2st Decade
+479: Broad Producer Price Index: IPA-M: MoM: 1st Decade
+480: IPCA: MoM: Tradables
+481: IPCA: MoM: Services
+482: Public Sector Debt: General Government: General Government Assets: Internal Asset: Investment in Funds
+483: IR: FCLSD: Up to 1 Month: Inflows: Interest
+484: IPI: Minas Gerais: Metal Products excl Machines & Equipments
+485: IPI: São Paulo: Other Transport Equipments excl Motor Vehicles
+486: IPI: Rio Grande do Sul: Coke, Petroleum Products and Biofuels
+487: FX Rate: Banco Central Do Brasil: New Taiwan Dollar: Bid
+488: Federal Domestic Sec: OBC: NT: T Notes
+489: Federal Domestic Sec: %Share By Indexing Factor: TJLP
+490: Federal Domestic Sec: %Share By Indexing Factor: INPC
+491: IPCA: Fortaleza
+492: IPCA: Recife
+493: IR: Contingent: Lia: 1-3 Months: Debt Falling Due Within 1 Year
+494: IPCA: MoM: Goods: Semidurables
+495: IPCA: MoM: Goods: Nondurables
+496: Public Sector Debt: General Government: General Government Assets: Foreign Credits: Collateral
+497: Public Sector Debt: General Government: General Government Assets: Internal Asset: Available
+498: IPCA: MoM: Non Regulated
+499: National Consumer Price Index: IPCA-E
+500: Public Sector Debt: General Government: Gross: Internal: Securities Debt Market: Under FGE Custody
+501: IR: FCLSD: 1-3 Months: Inflows: Interest
+502: IR: FCLSD: 1-3 Months: Outflows: Interest
+503: IR: Contingent: Lia: 3 Months-1 Year
+504: IPI: sa: Consumption Goods: Semi and Non-Durable
+505: IPCA: Belo Horizonte
+506: IPCA: Porto Alegre
+507: ORA: FCR: Total C&D With: National Central Banks, BIS and IMF
+508: IR: Contingent: Lia: 3 Months-1 Year: Debt Falling Due Within 1 Year
+509: IPCA: MoM: Food at Home
+510: Public Sector Debt: General Government: General Government Assets: Internal Asset: Available: Demand Deposits
+511: REER: 15 Group Currency: WPI: Internal Supply: Deutsche Mark
+512: National Consumer Price Index: IPCA-E: Communications
+513: National Consumer Price Index: IPCA-E: Education
+514: Public Sector Debt: General Government: General Government Assets: Internal Asset: Laborer Assistance Fund (FAT)
+515: National Consumer Price Index: IPCA-E: Apparel
+516: Federal Domestic Sec: %Share By Indexing Factor: IGP-M
+517: REER: 15 Group Currency: Wholesale Price Index(WPI): Internal Supply
+518: Public Sector Debt: General Government: General Government Assets: Internal Asset: Available: Investment in the Banking System: States
+519: National Consumer Price Index: IPCA-E: Household Articles
+520: National Consumer Price Index: IPCA-E: Personal Expenses
+521: National Consumer Price Index: IPCA-E: Health & Personal Care
+522: National Consumer Price Index: IPCA-E: Housing
+523: Public Sector Debt: General Government: General Government Assets: Internal Asset: Available: Investment of Social Security System
+524: Public Sector Debt: General Government: General Government Assets: Internal Asset: Other Federal Government's Credits
+525: Public Sector Debt: General Government: General Government Assets: Internal Asset: Credits with Official Financial Institutions: Credits with BNDES
+526: National Consumer Price Index: IPCA-E: Food Products & Beverage
+527: IR: Contingent Short-term Net Drains on Foreign Currency Assets: Lia
+528: Public Sector Debt: General Government: Gross: Internal: Federal Securities in Bacen
+529: REER: 15 Group Currency: WPI: Internal Supply: Euro
+530: IPCA: MoM: Non-Tradables
+531: IPCA: MoM: Goods: Durables
+532: Public Sector Debt: General Government: Gross: Internal: Federal Government Bank Debt
+533: PSBR to GDP Ratio: Flows Accumulated in 12 Mths: Nominal Result
+534: Public Sector Debt: General Government: General Government Assets: Internal Asset: Available: Assets of Federal Government in Central Bank 
+535: REER: 15 Group Currency: WPI: Internal Supply: Japanese Yen
+536: National Consumer Price Index: IPCA-E: MoM%: Communication
+537: PSBR to GDP Ratio: Flows Accumulated in 12 Mths: Nominal Interest
+538: PSBR to GDP Ratio: Flows Accumulated in 12 Mths: Primary Result
+539: REER: 15 Group Currency: WPI: Internal Supply: US Dollar
+540: IPCA: MoM: Administred Prices (SP): Total
+541: National Consumer Price Index: IPCA-E: MoM%: Housing
+542: National Consumer Price Index: IPCA-E: MoM%: Health & Persona
+543: National Consumer Price Index: IPCA-E: MoM%: Transportation
+544: National Consumer Price Index: IPCA-E: MoM%: Apparel
+545: National Consumer Price Index: IPCA-E: MoM%: Education
+546: National Consumer Price Index: IPCA-E: MoM%: Household Articl
+547: National Consumer Price Index: IPCA-E: MoM%: Personal Expense
+548: BCB Forecast: Over Selic Rate: Average: Next Calendar Year
+549: BCB Forecast: Over Selic Rate: Average: 1 Year Ahead
+550: BCB Forecast: Over Selic Rate: Median: 1 Year Ahead
+551: BCB Forecast: Over Selic Rate: Average: 2 Years Ahead
+552: BCB Forecast: Over Selic Rate: Average: Long Term
+553: Public Sector Debt: General Government: General Government Assets: Internal Asset: Credits with Official Financial Institutions: Hybrid Capital and Debt Instruments
+554: BCB Forecast: Over Selic Rate: Std Dev: Current Calendar Year
+555: BCB Forecast: Over Selic Rate: Std Dev: 1 Year Ahead
+556: BCB Forecast: Over Selic Rate: Median: 2 Years Ahead
+557: BCB Forecast: Over Selic Rate: Std Dev: Long Term
+558: BCB Forecast: Over Selic Rate: Median: Next Calendar Year
+559: BCB Forecast: Over Selic Rate: Average: Current Calendar Year
+560: BCB Forecast: IGP-M: Average: Next 12 Months
+561: BCB Forecast: Over Selic Rate: Std Dev: Next Calendar Year
+562: National Consumer Price Index: IPCA-E: MoM%: General
+563: National Consumer Price Index: IPCA-E: MoM%: Food Products &
+564: BCB Forecast: IGP-M: Std Dev: Next 12 Months
+565: BCB Forecast: Over Selic Rate: Median: Long Term
+566: Net Public Debt to GDP Ratio: State Enterprises
+567: Net Public Debt to GDP Ratio: Central Bank
+568: Net Public Debt to GDP Ratio: Central Government
+569: BCB Forecast: Over Selic Rate: Std Dev: 2 Years Ahead
+570: Net Public Debt to GDP Ratio: Domestic: Central Bank
+571: Net Public Debt to GDP Ratio: State & Municipal Governments
+572: Net Public Debt to GDP Ratio: Domestic: Consolidated Public Sector
+573: Net Public Debt to GDP Ratio: External: State Enterprises
+574: Net Public Debt to GDP Ratio: External: Municipal Governments
+575: Net Public Debt to GDP Ratio: External: Central Government
+576: BCB Forecast: IGP-M: Median: Next 12 Months
+577: BCB Forecast: IPCA: Std Dev: Next 12 Months
+578: Net Public Debt to GDP Ratio: Domestic: State Governments
+579: Net Public Debt to GDP Ratio: Central Government & Central Bank
+580: Net Public Debt to GDP Ratio: Domestic: Central Government Enterpris
+581: Net Public Debt to GDP Ratio: External: Municipal Government Enterpr
+582: REER: 15 Group Currency: National CPI
+583: Net Public Debt to GDP Ratio: Domestic: Central Government & Central
+584: Net Public Debt to GDP Ratio: Municipal Government Enterprises
+585: Net Public Debt to GDP Ratio: Domestic: Municipal Governments
+586: Net Public Debt to GDP Ratio: External: State Government Enterprises
+587: Net Public Debt to GDP Ratio: Central Government Enterprises
+588: Net Public Debt to GDP Ratio: Domestic: Municipal Government Enterpr
+589: Net Public Debt to GDP Ratio: Domestic: Central Government
+590: Net Public Debt to GDP Ratio: External: Central Bank
+591: Net Public Debt to GDP Ratio: External: Central Government Enterpris
+592: Net Public Debt to GDP Ratio: External: Cerntral Government & Centra
+593: REER: 15 Group Currency: National CPI: Japanese Yen
+594: REER: 15 Group Currency: CPI: US Dollar
+595: Public Sector Debt: % of GDP: General Government Debt: Net
+596: Public Sector Debt: % of GDP: Public Enterprises Net Debt
+597: REER: 15 Group Currency: CPI: FIPE: Deutsche Mark
+598: REER: 15 Group Currency: National CPI: Argentinean Peso
+599: REER: 15 Group Currency: CPI: FIPE: Argentinean Peso
+600: REER: 15 Group Currency: CPI: Japanese Yen
+601: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Available
+602: Net Public Debt to GDP Ratio: State Governments
+603: Net Public Debt to GDP Ratio: Municipal Governments
+604: CPI: IPCA: YoY%: Tradable
+605: CPI: IPCA: YoY%: Goods: Durables
+606: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Foreign
+607: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic
+608: REER: 15 Group Currency: CPI: Inst of Eco Research Foundation (FIPE)
+609: REER: 15 Group Currency: National CPI: US Dollar
+610: CPI: IPCA: YoY%: Goods: Semidurables
+611: BCB Forecast: IPCA: Average: Next 12 Months
+612: Net Public Debt to GDP Ratio: Consolidated Public Sector
+613: Net Public Debt to GDP Ratio: State Government Enterprises
+614: Net Public Debt to GDP Ratio: Domestic: State Enterprises
+615: Net Public Debt to GDP Ratio: Domestic: State & Municipal Government
+616: Net Public Debt to GDP Ratio: External: Consolidated Public Sector
+617: Net Public Debt to GDP Ratio: External: State & Municipal Government
+618: Net Public Debt to GDP Ratio: External: State Governments
+619: CPI: IPCA: YoY%: Non Tradable
+620: CPI: IPCA: YoY%: Services
+621: BCB Forecast: PSBR: % of GDP: Harmonised: Average: Next CY
+622: BCB Forecast: PSBR: % of GDP: Primary: Std Dev: Next CY
+623: BCB Forecast: PSBR: % of GDP: Primary: Median: Next CY
+624: BCB Forecast: PSBR: % of GDP: Primary: Average: 1 Yr
+625: BCB Forecast: PSBR: % of GDP: Primary: Median: 1 Yr
+626: BCB Forecast: PSBR: % of GDP: Primary: Std Dev: 3 Yrs
+627: BCB Forecast: PSBR: % of GDP: Primary: Median: 3 Yrs
+628: Public Sector Debt: % of GDP: General Government Debt (GG): General Government Gross Debt 
+629: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Bacen Operations
+630: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Foreign: State Governments
+631: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Credits With Public Enterprises
+632: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Other State Debts
+633: BCB Forecast: PSBR: % of GDP: Harmonised: Std Dev: 2 Yrs
+634: BCB Forecast: PSBR: % of GDP: Harmonised: Median: 2 Yrs
+635: BCB Forecast: PSBR: % of GDP: Primary: Median: 2 Yrs
+636: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Renegotiation Debt
+637: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Available: Tax Collected
+638: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Investment In Funds
+639: REER: 15 Group Currency: CPI: FIPE: Euro
+640: REER: 15 Group Currency: National CPI: Deutsche Mark
+641: REER: 15 Group Currency: CPI: Deutsche Mark
+642: REER: 15 Group Currency: CPI: Argentinean Peso
+643: REER: 15 Group Currency: CPI: FIPE: Japanese Yen
+644: CPI: IPCA: Diffusion Index
+645: Public Sector Debt: % of GDP: GG: General Government Assets
+646: Public Sector Debt: % of GDP: GG: Exchange Equalization
+647: Public Sector Debt: % of GDP: Bacen Net Debt
+648: BCB Forecast: PSBR: % of GDP: Harmonised: Median: Current CY
+649: BCB Forecast: PSBR: % of GDP: Harmonised: Average: Current CY
+650: BCB Forecast: PSBR: % of GDP: Harmonised: Average: 1 Yr
+651: BCB Forecast: PSBR: % of GDP: Harmonised: Average: 3 Yrs
+652: BCB Forecast: PSBR: % of GDP: Harmonised: Median: 3 Yrs
+653: BCB Forecast: PSBR: % of GDP: Primary: Std Dev: Current CY
+654: BCB Forecast: PSBR: % of GDP: Primary: Average: Current CY
+655: BCB Forecast: PSBR: % of GDP: Primary: Median: Current CY
+656: BCB Forecast: PSBR: % of GDP: Primary: Average: 2 Yrs
+657: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Available: Demand Deposits
+658: BCB Forecast: PSBR: % of GDP: Net Public Debt: Average: 1 Yr
+659: BCB Forecast: PSBR: % of GDP: Net Public Debt: Average: Next CY
+660: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: State Governments Bank Debt
+661: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Other Federal Government Credits
+662: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Worker Assistance Fund (FAT)
+663: BCB Forecast: PSBR: % of GDP: Net Public Debt: Std Dev: 3 Yrs
+664: BCB Forecast: PSBR: % of GDP: Net Public Debt: Std Dev: Next CY
+665: BCB Forecast: PSBR: % of GDP: Net Public Debt: Median: Next CY
+666: BCB Forecast: PSBR: % of GDP: Net Public Debt: Median: Current CY
+667: REER: 15 Group Currency: CPI: FIPE: US Dollar
+668: CPI: IPCA: YoY%: Non Regulated
+669: CPI: IPCA: YoY%: Goods: Nondurables
+670: CPI: IPCA: YoY: Administred Prices
+671: BCB Forecast: PSBR: % of GDP: Net Public Debt: Median: 1 Yr
+672: BCB Forecast: PSBR: % of GDP: Net Public Debt: Std Dev: 2 Yrs
+673: BCB Forecast: PSBR: % of GDP: Net Public Debt: Median: 2 Yrs
+674: BCB Forecast: PSBR: % of GDP: Net Public Debt: Average: 3 Yrs
+675: BCB Forecast: PSBR: % of GDP: Net Public Debt: Std Dev: Current CY
+676: BCB Forecast: PSBR: % of GDP: Net Public Debt: Average: Current CY
+677: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Local Governments Bank Debt
+678: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Available: Investment In The Banking System
+679: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Local Government Securities Debt
+680: BCB Forecast: PSBR: % of GDP: Harmonised: Std Dev: Next CY
+681: BCB Forecast: PSBR: % of GDP: Harmonised: Std Dev: 1 Yr
+682: BCB Forecast: PSBR: % of GDP: Harmonised: Std Dev: 3 Yrs
+683: BCB Forecast: PSBR: % of GDP: Primary: Std Dev: 1 Yr
+684: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Securities Debt Market: Investment In Subnational Government
+685: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Federal Government Bank Debt
+686: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Securities Debt Market: Investment In Public Entities
+687: BCB Forecast: PSBR: % of GDP: Harmonised: Std Dev: Current CY
+688: BCB Forecast: PSBR: % of GDP: Harmonised: Median: 1 Yr
+689: BCB Forecast: PSBR: % of GDP: Harmonised: Average: 2 Yrs
+690: BCB Forecast: PSBR: % of GDP: Primary: Average: Next CY
+691: BCB Forecast: PSBR: % of GDP: Primary: Std Dev: 2 Yrs
+692: BCB Forecast: PSBR: % of GDP: Primary: Average: 3 Yrs
+693: BCB Forecast: PSBR: % of GDP: Harmonised: Median: Next CY
+694: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Foreign: Local Governments
+695: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Securities Debt Market: Securitized Debt & TDA
+696: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Available: Assets of Federal Government In Bacen
+697: BCB Forecast: PSBR: % of GDP: Net Public Debt: Average: 2 Yrs
+698: BCB Forecast: PSBR: % of GDP: Net Public Debt: Median: 3 Yrs
+699: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Credits With Official Financial Institutions
+700: BCB Forecast: PSBR: % of GDP: Net Public Debt: Std Dev: 1 Yr
+701: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Securities Debt Market
+702: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Foreign: Federal Government
+703: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Available: Investments In Social Security System
+704: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Credits With Official Financial Institutions: BNDES
+705: Public Sector Debt: % of GDP: GG: General Government Assets: Foreign: Federal Government
+706: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: State Securities Debt
+707: Public Sector Debt: % of GDP: GG: General Government Assets: Domestic: Credits With Official Financial Institutions: Hybrid Capital & Debt Instruments
+708: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Securities Debt Market: Federal Securities Under FGE Custody
+709: Money Supply: M1: Daily Average
+710: Broad Money Supply: M2: Private Securities
+711: Money Supply: M1: Currency Held by the Public
+712: Broad Money Supply: M2: Private Securities: Others
+713: Money Supply: M1: Demand Deposits
+714: Money Supply: M1: Daily Average: Demand Deposits
+715: Broad Money Supply: Nonresident Assets
+716: Broad Money Supply: M2: Private Securities: Financial Bonds
+717: Broad Money Supply: M4: Federal Securities
+718: Broad Money Supply: M2: Savings Deposit
+719: Broad Money Supply: M2: Private Securities: Time Deposit
+720: Broad Money Supply: M2: Private Securities: Exchange Bills
+721: Money Supply: M1: Daily Average: Currency Outside Banks
+722: Broad Money Supply: M3: Repo Operat with Private Securities
+723: Broad Money Supply: M3: Quotas of Fixed Income Fund
+724: Broad Money Supply: M3: Repo Operat with Federal Public Securities
+725: IPCA: Salvador
+726: INPC: Rio de Janeiro
+727: IPI: Rio Grande do Sul: Manufacture of Leather, Travel & Footwear
+728: FX Rate: Banco Central Do Brasil: New Taiwan Dollar: Offer
+729: Federal Debt Held by Public: Indexed: Exchange Rate
+730: IPI: sa: Mfg: Electric Machines, Devices and Materials
+731: Federal Domestic Sec: %Share By Indexing Factor: Exchange Rate
+732: Federal Debt Held by Public: Indexed: Selic Rate
+733: Federal Debt Held by Public: Indexed: Price Index
+734: Federal Debt Held by Public: Indexed: Reference Tax
+735: IPI: sa: Mfg: Motor Vehicles, Trailers and Bodies
+736: IR: Foreign Currency Loans, Securities, and Deposits (FCLSD)
+737: Federal Domestic Sec: OBC: NT: T Financing Bills
+738: Federal Domestic Sec: OBC: NT: T Financing Securities
+739: Public Sector Debt: General Government: Gross: Foreign: States Government
+740: IPCA: MoM: Core: Double Weighted - DP
+741: IPCA: MoM: Core: Exclusion 3 - EX3
+742: Public Sector Debt: General Government: General Government Assets: Internal Asset
+743: Public Sector Debt: General Government: Gross: Internal: Securities Debt Market: Securitized Debt and TDA
+744: Public Sector Debt: General Government: Gross: Internal: Securities Debt Market: Investment of Subnational Government
+745: Public Sector Debt: General Government: General Government Assets: Internal Asset: Available: Tax Collected
+746: Public Sector Debt: General Government: General Government Assets: Internal Asset: Credits with Public Enterprises
+747: IPCA: MoM: Industrial Goods
+748: REER: 15 Group Currency: WPI: Internal Supply: Argentinean Peso
+749: National Consumer Price Index: IPCA-E: Transports
+750: Public Sector Debt: General Government: General Government Assets: Internal Asset: Credits with Official Financial Institutions
+751: Public Sector Debt: General Government: Gross: Internal: Securities Debt Market: National Treasury Securities Debt
+752: Public Sector Debt: General Government: Gross: Internal: Securities Debt Market: Investment of Public Agencies in Securities
+753: Public Sector Debt: % of GDP: GG: General Government Assets: Foreign
+754: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic
+755: Net Public Debt to GDP Ratio: Domestic: State Government Enterprises
+756: Public Sector Debt: % of GDP: GG: General Government Gross Debt: Domestic: Securities Debt Market: National Treasury Securities Debt
+757: IPI: Paraná: Wood Products
+758: IPI: Paraná: Chemical Products
+759: Public Accounts: Sources: IB: Banking Debt
+760: INPC: Home Appliances
+761: INPC: Curitiba
+762: INPC: Brasilia
+763: IPI: Mfg: Metal Products excl Machines and Equipments
+764: IPI: Mfg: Other Transport Equipments excl Motor Vehicles
+765: IPI: Northeast: Pulp, Paper and Paper Products
+766: IPI: Northeast: Non Metallic Minerals Products
+767: IPI: Amazonas: Computer, Electronic and Optical Products
+768: IPI: Pernambuco: Non Metallic Minerals Products
+769: IPI: Paraná: Non Metallic Minerals Products
+770: IPI: Rio Grande do Sul: Machinery and Equipment
+771: FX Rate: Banco Central Do Brasil: Euro: Offer
+772: FX Rate: BoP: Commerical Bank: Sell
+773: IR: FCLSD: Outflows: Interest
+774: IPI: Bahia: Pulp, Paper and Paper Products
+775: Industrial Production Index (IPI): Minas Gerais
+776: IPI: Rio de Janeiro: Food Products
+777: IPI: Rio de Janeiro: Rubber and Plastic
+778: IPI: Paraná: Electric Machines, Devices and Materials
+779: IPI: Rio Grande do Sul: Tobacco Products
+780: INPC: Fortaleza
+781: PSBR: Primary: Central Govt: Federal Govt
+782: PSBR: Nominal: State Enterprises: Federal Owner
+783: Financial System Credit: Financial Institution Under Public Control
+784: IPI: Northeast: Mineral Extraction
+785: IPI: Pernambuco: Food Products
+786: IPI: Bahia: Mineral Extraction
+787: IPI: Bahia: Chemical Products
+788: IPI: Santa Catarina: Metallurgy
+789: IPI: São Paulo: Manufacturing
+790: Public Sector Debt: Net
+791: PSBR: Primary: State Enterprises: States Owner
+792: PSBR: Nominal: Central Govt: Central Bank
+793: PSBR: Nominal interest: Regional Govt: Local
+794: IPI: Bahia: Food Products
+795: IPI: Minas Gerais: Manufacturing
+796: IPI: São Paulo: Metallurgy
+797: ORA: SDRs
+798: Monetary Base: Change: Deposits: Financial Institutions
+799: PSBR: Primary
+800: International Reserves (IR): Liquidity Concept Position: Montlhy
+801: Public Accounts: Sources
+802: IPI: Ceará: Metal Products excl Machines & Equipments
+803: IPI: Santa Catarina: Pulp, Paper and Paper Products
+804: IPI: Espírito Santo: Pulp, Paper and Paper Products
+805: Industrial Production Index (IPI): Rio de Janeiro
+806: IPI: sa: Mfg: Food Products
+807: Federal Domestic Sec: OBC: Securitized Debt
+808: Public Sector Debt: General Government: Gross: Foreign
+809: Public Sector Debt: General Government: Gross: Internal
+810: General Price Index: MoM: IGP-M
+811: FX Rate: Banco Central Do Brasil: Australia Dollar: Offer
+812: FX Rate: Banco Central Do Brasil: British Pound: Offer
+813: FX Rate: Banco Central Do Brasil: Canadian Dollar: Offer
+814: FX Rate: Banco Central Do Brasil: Chinese Reminbi: Offer
+815: FX Rate: Banco Central Do Brasil: Indonesian Rupiah: Offer
+816: FX Rate: Banco Central Do Brasil: Malaysian Ringgit: Bid
+817: FX Rate: Banco Central Do Brasil: Phillipines Peso: Bid
+818: FX Rate: Banco Central Do Brasil: Thai Baht: Bid
+819: Public Accounts: Uses: IDI: Monetary Actualization
