@@ -11,7 +11,7 @@ This repository contains a data science replication project that forecasts the m
 
 ## Models Evaluated
 The project evaluates a suite of models across three distinct categories:
-1. **Traditional Baselines:** Random Walk, ARMA(1,1), Data-Rich Phillips Curve
+1. **Traditional Baselines:** Random Walk, ARMA(1,1), Data-Rich Phillips Curve.
 2. **Factor Models:** Factor-Augmented Vector Autoregression (FAVAR) utilizing Principal Component Analysis (PCA) to extract 3 macroeconomic factors.
 3. **Machine Learning:** LASSO Regression, Ridge Regression, Elastic Net, and Random Forest Regressor (100 trees).
 
